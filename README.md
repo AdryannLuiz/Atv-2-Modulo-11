@@ -22,3 +22,4 @@ O projeto faz uso do framework Flutter para criar interfaces de usuário dinâmi
 - **Estrutura de pastas e arquitetura do projeto**: Organização do projeto baseada em boas práticas para desenvolvimento Flutter.
 
 ## Link para vizualizar o projeto:
+https://adryannluiz.github.io/aula.talento.tech/app-layout/
